@@ -1,8 +1,7 @@
 # SyedRashwan.github.io
 
-## Might make a personalized website. (*^_^*)
-
-### Soon? ○( ＾皿＾)っ Hehehe…
+## Might make a personalized website. (*^_^*) 
+#### Soon? ○( ＾皿＾)っ Hehehe…
 
 ```
 import random
